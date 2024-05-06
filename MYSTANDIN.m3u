@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
+
+# Join Telegram Group: https://t.me/iptvth
+# =======================================================
+# Playlist Name: My Playlist by Akkradet
+# Last Update: 2023-12-10 22:08:43 UTC+07 ICT
+# =======================================================
+
+
+#EXTM3U
+#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/xZFOzHr.jpg",Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:sub-file="file:///storage/emulated/0/BL/My-Stand-In.Ep2.srt"
+https://videodelivery.site/My-Stand-In.Ep2.mp4
