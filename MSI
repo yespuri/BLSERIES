@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, Series 1 - Episode 1
+#EXTINF:-1 tvg-id="series1_ep1" tvg-name="Series 1 - Episode 1" tvg-logo="logo_url" group-title="Series 1", Series 1 - Episode 1
 https://hls082.vipdracdn.net/streamhls2024/7005874e79469293918a558515f0b5aa/ep.1.v0.1714143958.720.m3u8
 
-#EXTINF:0, Series 1 - Episode 2
+#EXTINF:-1 tvg-id="series1_ep2" tvg-name="Series 1 - Episode 2" tvg-logo="logo_url" group-title="Series 1", Series 1 - Episode 2
 https://hls131.vipdracdn.net/streamhls2024/7005874e79469293918a558515f0b5aa/ep.2.v0.1714748497.720.m3u8
-
-#EXTINF:0, Series 2 - Episode 1
-https://example.com/series2/episode1.m3u8
-
-#EXTINF:0, Series 2 - Episode 2
-https://example.com/series2/episode2.m3u8
