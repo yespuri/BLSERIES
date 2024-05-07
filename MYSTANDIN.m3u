@@ -8,7 +8,7 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/xZFOzHr.jpg",Workpoint TV
+#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="MY STAND-IN" group-title="Thai BL" tvg-logo="https://world-of-bl.com/uploads/MyStand-In/MyStand-In-Logo.jpg",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:sub-file="https://raw.githubusercontent.com/yespuri/BLSERIES/main/My-Stand-In.Ep2.srt?token=GHSAT0AAAAAACRDFCWGILZS4WHWLNOCKILSZRZN3XQ"
+#EXTVLCOPT:sub-file="file:///storage/emulated/0/BL/My-Stand-In.Ep2.srt"
 https://videodelivery.site/My-Stand-In.Ep2.mp4
