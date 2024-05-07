@@ -1,0 +1,13 @@
+<tv>
+  <channel id="series1_ep1">
+    <display-name>Series 1 - Episode 1</display-name>
+  </channel>
+  <programme start="2024-05-07 20:00:00" stop="2024-05-07 21:00:00" channel="series1_ep1">
+    <title>Series 1 - Episode 1</title>
+    <desc>Description of Episode 1</desc>
+  </programme>
+  <programme start="2024-05-07 21:00:00" stop="2024-05-07 22:00:00" channel="series1_ep2">
+    <title>Series 1 - Episode 2</title>
+    <desc>Description of Episode 2</desc>
+  </programme>
+</tv>
