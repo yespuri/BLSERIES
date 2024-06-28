@@ -9,6 +9,9 @@
 #EXTINF:-1 group-title="BL SERIES" tvg-logo="https://raw.githubusercontent.com/yespuri/BLSERIES/main/IHS.png",I HEAR SUNSPOT 
 https://hls087.vipdracdn.net/streamhls2024/3a4b8bd55641e23410f84dfcac80c6fa/ep.1.v0.1719418763.1080.m3u8
 
+#EXTINF:-1 group-title=CDRAMA" tvg-logo="https://i.mydramalist.com/BdB3Db_4f.jpg",BORN TO FLY 
+https://hls021.vipdracdn.net/streamhls2024/3f70f71f1d0ed97cf0310b4532cc4c5f/ep.1.v0.1709214143.720.m3u8
+
 #EXTINF:-1 tvg-chno="18"  tvg-id="JKN 18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://i.imgur.com/rS73Ora.jpg",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
